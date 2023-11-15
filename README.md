@@ -7,7 +7,7 @@ We had to design a game using a specific set of rules.
 
 Pygame library was used for the UI.
 
-The game was modified again by me recently. this was to fixes and simplify past coding with new knowledge from experiecnes. The game was not fundamentally change just list iterations and list comprehension were made. Original code can be seen int he Watchdogs repository.
+The game was modified again by me recently. this was to fix and simplify past coding with new knowledge from experiences. The game was not fundamentally changed just list iterations and list comprehension were made. The original code can be seen in the Watchdogs repository.
 
 
 ![image](https://github.com/FrankFyre/Purgatory/assets/89239683/16517ff8-e310-4e29-82f5-ed3785d5b07e)
